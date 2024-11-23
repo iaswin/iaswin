@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaswin&label=Profile%20views&color=0e75b6&style=flat" alt="iaswin" /> </p>
 
-- 🌱 I’m currently learning **GENERATIVE AI**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://iaswin.netlify.app/](https://iaswin.netlify.app/)
 
